@@ -13,8 +13,7 @@ const Home=()=>{
 <hr></hr>
 <br></br>
 <hr></hr>
-
-
+        
 <div id="carouselExampleCaptions" className="carousel slide">
   <div className="carousel-indicators">
     <button
@@ -80,8 +79,6 @@ const Home=()=>{
 </div>
 <br></br>
 <hr></hr>
-
-
 
 <center><h2> TODAY'S STORIES</h2></center>
 <hr></hr>
